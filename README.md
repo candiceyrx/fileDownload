@@ -1,1 +1,2 @@
 # fileDownload
+分别用NSURLConnection与NSURLSession实现大文件的下载、断点下载！
